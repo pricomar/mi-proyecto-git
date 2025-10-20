@@ -1,0 +1,1 @@
+3I/ATLAS, también conocido como C/2025 N1 (ATLAS), es un cometa interestelar descubierto el 1 de julio de 2025 por el sistema ATLAS en Chile
