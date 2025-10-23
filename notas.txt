@@ -6,3 +6,4 @@ Añadimo linea de leccion 3, ejercicio 7, punto 2
 Añado otra linea 1 de 3 para leccione 3, ejercio 7, punto 6
 Añado otra linea 2 de 3 para leccione 3, ejercio 7, punto 6
 Añado otra linea 3 de 3 para leccione 3, ejercio 7, punto 6
+Linea par verificar git stash
